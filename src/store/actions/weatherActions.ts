@@ -14,7 +14,7 @@ export const getWeather = (
 ): ThunkAction<void, RootState, null, WeatherAction> => {
   return async (dispatch) => {
     try {
-      const API_KEY = "d3b6f780cc824038d39829f0f6a0d091";
+      const API_KEY = "Your API KEY";
       const response = await fetch(
         `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}`
       );
