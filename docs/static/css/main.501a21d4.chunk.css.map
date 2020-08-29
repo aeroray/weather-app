@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,eACE,4BACF","file":"main.501a21d4.chunk.css","sourcesContent":["html {\r\n  overflow-y: hidden;\r\n}\r\n\r\n.weather-title {\r\n  margin-bottom: 50px !important;\r\n}\r\n"]}
